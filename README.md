@@ -10,3 +10,5 @@ Things that i want to learn in this Bootcamp
 - 🖥 Develop web apps
 - 🔣 html
 - 🔣 javascript
+- 
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
