@@ -2,11 +2,6 @@
 
 I am a Web Development student at neue fische. 👨🏼‍🎓
 
-Things i want to learn in this Bootcamp: 🧑🏽‍💻
-- [ ] html 
-- [ ] css
-- [ ] JavaScript
-
 Things i like to do in my free time:
 - Kitesurfing 🏄🏽‍♂️
 - DJ 🎶
